@@ -46,6 +46,7 @@ public final class Logger {
   public Logger(final Class<?> clazz) {
     this(clazz.getSimpleName());
   }
+  
 
   /**
    * Creates a Logger using the specified message prefix.
