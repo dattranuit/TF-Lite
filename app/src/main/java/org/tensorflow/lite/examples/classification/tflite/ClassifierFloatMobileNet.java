@@ -45,12 +45,12 @@ public class ClassifierFloatMobileNet extends Classifier {
   @Override
   public int getImageSizeX() {
     return 64;
-  }
+  } // change this
 
   @Override
   public int getImageSizeY() {
     return 64;
-  }
+  } // change this
 
   @Override
   protected String getModelPath() {
